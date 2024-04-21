@@ -195,12 +195,13 @@ span{
     font-family: Myriad pro;
     font-size: 0.9rem;
     letter-spacing: 0.5px;
+    padding-top: 20px;
 }
 .productBox a{
     font-family: Poppins;
     color: #2c2c2c;
     font-size: 1rem;
-    
+    margin-top: 10px;
 }
 .BuyBtn{
     position: relative;
@@ -211,7 +212,7 @@ span{
     justify-content: center;
     left: 28%;
     font-family: calibri;
-    bottom: -18%;
+    bottom: -12%;
     transform: translateX(-50%);
     border-radius: 15% 15% 15% 15% / 50% 50% 50% 50%;
     color: #FFFFFF;
